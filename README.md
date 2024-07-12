@@ -1,8 +1,6 @@
-# Image-Level Micro-Gesture Classification via Visual-text Contrastive Learning
+# Image-Level Micro-Gesture classification via visual-text contrastive Learning
 
 <!---
-QQQQ
---->
 ## Overview
 
 ![Visual-Text Contrastive Learning](visualtextcontrastive.png)
@@ -89,3 +87,5 @@ Notably, `Clip_label.csv` should be in the same directory as `test.py`
 
 # Acknowledgments
 Our code is based on the Pytorch implementation of [CLIP](https://github.com/moein-shariatnia/OpenAI-CLIP).
+--->
+
