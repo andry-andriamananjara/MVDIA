@@ -1,0 +1,7 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.9=he550d4f_0_cpython
+  - python_abi=3.10=4_cp310

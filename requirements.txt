@@ -1,0 +1,17 @@
+pip install opencv-contrib-python
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install moviepy
+pip install glob2
+pip install torch 
+pip install torchvision
+pip install transformers
+pip install tdqm
+pip install decord
+pip install pytorchvideo
+pip install openpyxl
+pip install albumentations
+pip install timm
+pip install matplotlib
+pip install tensorboard
