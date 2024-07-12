@@ -1,5 +1,7 @@
 # Image-Level Micro-Gesture classification via visual-text contrastive Learning
 
+This is a project of Machine Vision and Digital Image Analysis (MVDIA).
+
 <!---
 ## Overview
 
