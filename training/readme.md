@@ -1,2 +1,2 @@
-Dowload the data from [iMiGUE] (https://github.com/linuxsino/iMiGUE)
+Dowload the data from https://github.com/linuxsino/iMiGUE
 and add them here
